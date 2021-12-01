@@ -3,4 +3,4 @@ window.open('https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Sec
 $('#searchDataInput').val('gay porn'); 
 $('.card-title').text('Lorem Ipsum');
 $('.card-text').text('Dolor Sit Amet');
-$('.card-img-top').attr('src', 'https://imgix.bustle.com/uploads/image/2018/10/29/f4c3a7c8-fc5d-4fa0-9676-f85360fa2f22-fotolia_190928973_subscription_monthly_m.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg');
+$('.card-img-top').attr('src', 'https://media.glamour.com/photos/580e1fc08bd9950546d001f6/master/w_1920%2Cc_limit/giphy%2520(11).gif');
